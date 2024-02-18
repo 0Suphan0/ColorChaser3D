@@ -1,4 +1,4 @@
-*.ShaderLab linguist-detectable=false
+*.shader linguist-detectable=false
 *.h linguist-detectable=false
 *.cc linguist-detectable=false
 *.cpp linguist-detectable=false
